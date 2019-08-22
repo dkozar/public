@@ -1,0 +1,19 @@
+{
+  "name": "danko-kozar-public",
+  "version": "1.0.0",
+  "description": "My public stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkozar/public.git"
+  },
+  "author": "Danko Kozar",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/dkozar/public/issues"
+  },
+  "homepage": "https://github.com/dkozar/public#readme"
+}
